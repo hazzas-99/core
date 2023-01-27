@@ -8173,16 +8173,16 @@
         },
         {
             "name": "symfony/console",
-            "version": "v6.2.3",
+            "version": "v6.2.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/console.git",
-                "reference": "0f579613e771dba2dbb8211c382342a641f5da06"
+                "reference": "3e294254f2191762c1d137aed4b94e966965e985"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/console/zipball/0f579613e771dba2dbb8211c382342a641f5da06",
-                "reference": "0f579613e771dba2dbb8211c382342a641f5da06",
+                "url": "https://api.github.com/repos/symfony/console/zipball/3e294254f2191762c1d137aed4b94e966965e985",
+                "reference": "3e294254f2191762c1d137aed4b94e966965e985",
                 "shasum": ""
             },
             "require": {
@@ -8249,7 +8249,7 @@
                 "terminal"
             ],
             "support": {
-                "source": "https://github.com/symfony/console/tree/v6.2.3"
+                "source": "https://github.com/symfony/console/tree/v6.2.5"
             },
             "funding": [
                 {
@@ -8265,7 +8265,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2022-12-28T14:26:22+00:00"
+            "time": "2023-01-01T08:38:09+00:00"
         },
         {
             "name": "symfony/css-selector",
@@ -10086,16 +10086,16 @@
         },
         {
             "name": "symfony/process",
-            "version": "v6.2.0",
+            "version": "v6.2.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/process.git",
-                "reference": "ba6e55359f8f755fe996c58a81e00eaa67a35877"
+                "reference": "9ead139f63dfa38c4e4a9049cc64a8b2748c83b7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/process/zipball/ba6e55359f8f755fe996c58a81e00eaa67a35877",
-                "reference": "ba6e55359f8f755fe996c58a81e00eaa67a35877",
+                "url": "https://api.github.com/repos/symfony/process/zipball/9ead139f63dfa38c4e4a9049cc64a8b2748c83b7",
+                "reference": "9ead139f63dfa38c4e4a9049cc64a8b2748c83b7",
                 "shasum": ""
             },
             "require": {
@@ -10127,7 +10127,7 @@
             "description": "Executes commands in sub-processes",
             "homepage": "https://symfony.com",
             "support": {
-                "source": "https://github.com/symfony/process/tree/v6.2.0"
+                "source": "https://github.com/symfony/process/tree/v6.2.5"
             },
             "funding": [
                 {
@@ -10143,7 +10143,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2022-11-02T09:08:04+00:00"
+            "time": "2023-01-01T08:38:09+00:00"
         },
         {
             "name": "symfony/psr-http-message-bridge",
@@ -10408,16 +10408,16 @@
         },
         {
             "name": "symfony/string",
-            "version": "v6.2.2",
+            "version": "v6.2.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/string.git",
-                "reference": "863219fd713fa41cbcd285a79723f94672faff4d"
+                "reference": "b2dac0fa27b1ac0f9c0c0b23b43977f12308d0b0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/string/zipball/863219fd713fa41cbcd285a79723f94672faff4d",
-                "reference": "863219fd713fa41cbcd285a79723f94672faff4d",
+                "url": "https://api.github.com/repos/symfony/string/zipball/b2dac0fa27b1ac0f9c0c0b23b43977f12308d0b0",
+                "reference": "b2dac0fa27b1ac0f9c0c0b23b43977f12308d0b0",
                 "shasum": ""
             },
             "require": {
@@ -10474,7 +10474,7 @@
                 "utf8"
             ],
             "support": {
-                "source": "https://github.com/symfony/string/tree/v6.2.2"
+                "source": "https://github.com/symfony/string/tree/v6.2.5"
             },
             "funding": [
                 {
@@ -10490,7 +10490,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2022-12-14T16:11:27+00:00"
+            "time": "2023-01-01T08:38:09+00:00"
         },
         {
             "name": "symfony/translation",
@@ -11939,16 +11939,16 @@
         },
         {
             "name": "laravel/homestead",
-            "version": "v14.0.1",
+            "version": "v14.2.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/homestead.git",
-                "reference": "7085805884aa99d5ec373d8c4320d9be326d74c0"
+                "reference": "268337e805b8563745a5203ebaef6b7786500d1b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/homestead/zipball/7085805884aa99d5ec373d8c4320d9be326d74c0",
-                "reference": "7085805884aa99d5ec373d8c4320d9be326d74c0",
+                "url": "https://api.github.com/repos/laravel/homestead/zipball/268337e805b8563745a5203ebaef6b7786500d1b",
+                "reference": "268337e805b8563745a5203ebaef6b7786500d1b",
                 "shasum": ""
             },
             "require": {
@@ -11987,9 +11987,9 @@
             "description": "A virtual machine for web artisans.",
             "support": {
                 "issues": "https://github.com/laravel/homestead/issues",
-                "source": "https://github.com/laravel/homestead/tree/v14.0.1"
+                "source": "https://github.com/laravel/homestead/tree/v14.2.0"
             },
-            "time": "2023-01-10T00:38:36+00:00"
+            "time": "2023-01-27T03:25:40+00:00"
         },
         {
             "name": "laravel/legacy-factories",
@@ -14606,16 +14606,16 @@
         },
         {
             "name": "symfony/yaml",
-            "version": "v5.4.17",
+            "version": "v5.4.19",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/yaml.git",
-                "reference": "edcdc11498108f8967fe95118a7ec8624b94760e"
+                "reference": "71c05db20cb9b54d381a28255f17580e2b7e36a5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/yaml/zipball/edcdc11498108f8967fe95118a7ec8624b94760e",
-                "reference": "edcdc11498108f8967fe95118a7ec8624b94760e",
+                "url": "https://api.github.com/repos/symfony/yaml/zipball/71c05db20cb9b54d381a28255f17580e2b7e36a5",
+                "reference": "71c05db20cb9b54d381a28255f17580e2b7e36a5",
                 "shasum": ""
             },
             "require": {
@@ -14661,7 +14661,7 @@
             "description": "Loads and dumps YAML files",
             "homepage": "https://symfony.com",
             "support": {
-                "source": "https://github.com/symfony/yaml/tree/v5.4.17"
+                "source": "https://github.com/symfony/yaml/tree/v5.4.19"
             },
             "funding": [
                 {
@@ -14677,7 +14677,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2022-12-13T09:57:04+00:00"
+            "time": "2023-01-10T18:51:14+00:00"
         },
         {
             "name": "theseer/tokenizer",
